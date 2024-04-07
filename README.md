@@ -1,14 +1,16 @@
 # Teddy.lowell-code-challengeWK3
 
 ## AUTHOR
-[TeddyLowell] (https://github.com/lowellteddy)
+[TeddyLowell] (https://github.com/Lowellteddy)
 
 ## DESCRIPTION
 Flatadango is an app that allows users to buy tickets, the app also displays the movies being streamed and how long they take 
 
 ## TECHNOLOGIES
-HTML
-JavaScript
+1.HTML
+2.JavaScript
+## LIVESITE
+https://lowellteddy.github.io/LOWELL-TEDDY-code-challenge_WK3/
 
 ## CONTACT
  you can can contact me @
