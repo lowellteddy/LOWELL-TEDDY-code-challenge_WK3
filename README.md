@@ -9,6 +9,8 @@ Flatadango is an app that allows users to buy tickets, the app also displays the
 ## TECHNOLOGIES
 1.HTML
 2.JavaScript
+3.CSS
+
 ## LIVESITE
 https://lowellteddy.github.io/LOWELL-TEDDY-code-challenge_WK3/
 
